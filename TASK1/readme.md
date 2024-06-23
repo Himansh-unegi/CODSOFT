@@ -47,8 +47,7 @@ The project is structured as follows:
 * **Encode Categorical Variables** : Convert categorical variables ('Sex' and 'Embarked') into numerical format using one-hot encoding.
 * **Drop Irrelevant Columns** : Remove unnecessary columns such as 'Name', 'Ticket', 'Cabin', and 'PassengerId' that do not contribute to the predictive model.
 
-
-###  **Feature Engineering** :
+### **Feature Engineering** :
 
 * **Select Relevant Features** : Choose the following features for model training:
   `Pclass`: Passenger class (1st, 2nd, 3rd)
@@ -68,12 +67,9 @@ The project is structured as follows:
   * Classification Report: Detailed report showing precision, recall, and F1-score for each class.
   * Confusion Matrix: Visualization of the model's performance in terms of true positives, true negatives, false positives, and false negatives.
 
-
 ### **Predictions** :
 
 * **New Data Prediction** : Use the trained model to make survival predictions on new data.
-
-
 
 ## **Results**
 
@@ -115,7 +111,7 @@ Passenger 12: Survived
 
 ## Author
 
-- Author: Himashu Negi
+- Author: Himanshu Negi
 - Contact: studyhimanshustudy@gmail.com
 
 ---
